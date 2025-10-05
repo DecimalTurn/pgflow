@@ -24,7 +24,7 @@
     "@pgflow/core": "workspace:*",
     "chalk": "^5.4.1",
     "commander": "^13.1.0",
-    "smol-toml": "^1.4.2"
+    "toml-patch": "^0.2.3"
   },
   "publishConfig": {
     "access": "public"
